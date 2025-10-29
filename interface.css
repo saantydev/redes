@@ -5,3 +5,24 @@ font-family: sans-serif;
 #temp-int{
 font-size: 80px;
 }
+#humedad{
+display: flex;
+font-family: sans-serif;
+}
+#humedad-int{
+font-size: 80px;
+}
+#viento{
+display: flex;
+font-family: sans-serif;
+}
+#viento-int{
+font-size: 80px;
+}
+#incendio{
+display: flex;
+font-family: sans-serif;
+}
+#incendio-int{
+font-size: 80px;
+}

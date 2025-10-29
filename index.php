@@ -9,6 +9,7 @@
 
 <body>
 	<div id="controls">
+		Temperatura:
 		<div id="temp">
 			<div id="temp-int">00</div>
 			<div id="temp-col">
@@ -16,7 +17,9 @@
 				<div id="temp-dec">.00</div>
 			</div>
 		</div>
-		
+		<br>
+		<br>
+		Humedad:
 		<div id="humedad">
 			<div id="humedad-int">00</div>
 			<div id="humedad-col">
@@ -24,7 +27,9 @@
 				<div id="humedad-dec">.00</div>
 			</div>
 		</div>
-
+		<br>
+		<br>
+		Viento:
 		<div id="viento">
 			<div id="viento-int">00</div>
 			<div id="viento-col">
@@ -32,7 +37,9 @@
 				<div id="viento-dec">.00</div>
 			</div>
 		</div>
-
+		<br>
+		<br>
+		Incendio:
 		<div id="incendio">
 			<div id="incendio-int">0</div>
 			<div id="incendio-status">No Detectado</div>
